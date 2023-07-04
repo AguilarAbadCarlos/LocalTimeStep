@@ -1,2 +1,6 @@
 # LocalTimeStep
-Código desarrollado para el TFG sobre Local Time Step del grado en Física
+Código desarrollado para el TFG de Comparación de métodos numéricos de integración temporal..., grado en Física, Universidad de Zaragoza, 2023
+
+Autor: Carlos Aguilar Abad
+
+Implementación de los algoritmos LTS1 y LTS2 (Crossley 2003) en las ecuaciones de transporte lineal, Burgers y shallow water 1D.
